@@ -1,0 +1,10 @@
+{
+  "name": "Neo NFT",
+  "symbol": "NEO",
+  "description": "A just NFT example of my project",
+  "seller_fee_basis_points": 5,
+  "external_url": "",
+  "edition": "",
+  "background_color": "00FF00",
+  "image": "https://upload.wikimedia.org/wikipedia/ru/4/4c/Neo2.jpg"
+}
